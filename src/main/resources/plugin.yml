@@ -1,10 +1,10 @@
 main: me.waqe.plugin.App
-name: SpigotPlugin
+name: GUIGamble
 version: '0.1'
 api: '1'
 api-version: 1.16
 
 commands:
-  help:
-    description: show help
-    usage: /help
+  gamble:
+    description: Gamble some diamonds
+    usage: /gamble
